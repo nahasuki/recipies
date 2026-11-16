@@ -1,4 +1,7 @@
-# Ingredients for Pho
+# Pho
+The greatest soup of all time
+
+## Ingredients for Pho
 * onion
 * beef
 * rice sticks
@@ -6,3 +9,8 @@
 * water
 * seasoning
 * hoisin saus
+
+## Instructions
+- Braise da meat
+- make soup
+- FUYOOOOOOO
